@@ -1,0 +1,7 @@
+CHANGED,C:\Users\vv\AndroidStudioProjects\SpaceGame\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\study\android\spacegame\framework\ZComparator$override.class
+CHANGED,C:\Users\vv\AndroidStudioProjects\SpaceGame\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\study\android\spacegame\MainActivity$override.class
+CHANGED,C:\Users\vv\AndroidStudioProjects\SpaceGame\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\study\android\spacegame\MainActivity$Explosion$override.class
+CHANGED,C:\Users\vv\AndroidStudioProjects\SpaceGame\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\study\android\spacegame\MainActivity$Stars$override.class
+CHANGED,C:\Users\vv\AndroidStudioProjects\SpaceGame\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\study\android\spacegame\MainActivity$Asteroid$override.class
+CHANGED,C:\Users\vv\AndroidStudioProjects\SpaceGame\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\vv\AndroidStudioProjects\SpaceGame\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\study\android\spacegame\MainActivity$2$override.class

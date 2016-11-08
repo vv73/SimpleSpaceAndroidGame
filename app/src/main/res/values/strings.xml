@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Space Game</string>
+    <string name="pause">Пауза</string>
+    <string name="records">Рекорды</string>
+    
+
+</resources>

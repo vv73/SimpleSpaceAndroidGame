@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\vv\\AndroidStudioProjects\\SpaceGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\asteroid1.png",
+        "source": "C:\\Users\\vv\\AndroidStudioProjects\\SpaceGame\\app\\src\\main\\res\\drawable\\asteroid1.png"
+    },
+    {
+        "merged": "C:\\Users\\vv\\AndroidStudioProjects\\SpaceGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\explosion1.png",
+        "source": "C:\\Users\\vv\\AndroidStudioProjects\\SpaceGame\\app\\src\\main\\res\\drawable\\explosion1.png"
+    },
+    {
+        "merged": "C:\\Users\\vv\\AndroidStudioProjects\\SpaceGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\explosion2.png",
+        "source": "C:\\Users\\vv\\AndroidStudioProjects\\SpaceGame\\app\\src\\main\\res\\drawable\\explosion2.png"
+    },
+    {
+        "merged": "C:\\Users\\vv\\AndroidStudioProjects\\SpaceGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ship.png",
+        "source": "C:\\Users\\vv\\AndroidStudioProjects\\SpaceGame\\app\\src\\main\\res\\drawable\\ship.png"
+    }
+]
